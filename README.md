@@ -1,8 +1,22 @@
 # Sales-Insights-Tableau
 
+
+## Overview
+The purpose of the project is Unlocking sales insights using tableau for decision support and automate it to reduce the time required for data gathering.
+The final product is an automated dashboard providing quick and latest sales insights in order to support data driven decision making.
+
+
+## To use the Sales Insight dashboard:
+1. Open the Tableau workbook in Tableau Desktop or Tableau Online.
+2. Navigate to the "Dashboard" tab for a comprehensive view of sales insights.
+3. Filter data using the provided filters for a more targeted analysis.
+4. Explore different sheets for detailed visualizations and trends.
+
+## Data Source
+
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it.
 
-# Data Analysis Using SQL
+## Data Analysis Using SQL
 Show all customer records
 
 SELECT * FROM customers;
